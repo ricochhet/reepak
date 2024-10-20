@@ -5,7 +5,7 @@ go 1.22
 require (
 	github.com/ricochhet/murmurhash3 v0.0.0-20241010175748-b76fa59b74df
 	github.com/ricochhet/readwrite v0.0.0-20241010172637-533d3cb8456c
-	github.com/ricochhet/simplefs v0.0.0-20241018024719-aa3851d4b0fc
+	github.com/ricochhet/simplefs v0.0.0-20241020191600-51df0c7b11bf
 	github.com/ricochhet/simplelog v0.0.0-20241010180121-b23ed786893b
 )
 

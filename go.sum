@@ -6,8 +6,8 @@ github.com/ricochhet/murmurhash3 v0.0.0-20241010175748-b76fa59b74df h1:FbDMOCQk6
 github.com/ricochhet/murmurhash3 v0.0.0-20241010175748-b76fa59b74df/go.mod h1:FkbO+hpAsvvCgZv7VtT1YZ0qZOWKfL96zFfk8bkyJ9Y=
 github.com/ricochhet/readwrite v0.0.0-20241010172637-533d3cb8456c h1:fu0NsJBNDB+xERq905OslWYB5Qp9sPAtTpxysZJLw30=
 github.com/ricochhet/readwrite v0.0.0-20241010172637-533d3cb8456c/go.mod h1:W6dkZ/KL3RpwAofqfkM4LmjhtsO2LgdP4sybqeUOppg=
-github.com/ricochhet/simplefs v0.0.0-20241018024719-aa3851d4b0fc h1:eo0m1doBrkE2k6r95J404pFr/oWcdHmb6R5CC8Wukhs=
-github.com/ricochhet/simplefs v0.0.0-20241018024719-aa3851d4b0fc/go.mod h1:eK3lUda3KAHctMlhEmuwmtNBgS49IfEjC/qm/5G9CAs=
+github.com/ricochhet/simplefs v0.0.0-20241020191600-51df0c7b11bf h1:xbHyYBwDHVLhV4EpVB3KeAD3EAgbH9PCNc5RPjup0Uo=
+github.com/ricochhet/simplefs v0.0.0-20241020191600-51df0c7b11bf/go.mod h1:eK3lUda3KAHctMlhEmuwmtNBgS49IfEjC/qm/5G9CAs=
 github.com/ricochhet/simplelog v0.0.0-20241010180121-b23ed786893b h1:UTIeqahxFx4Qwz5NlvxF79XWGJVywA8xnKpZL7FFQbg=
 github.com/ricochhet/simplelog v0.0.0-20241010180121-b23ed786893b/go.mod h1:iyZ9NbWbIuijPOFiaYyHTZwjxuH61tVrYG1tC9F927Y=
 golang.org/x/sync v0.8.0 h1:3NFvSEYkUoMifnESzZl15y791HH1qU2xm6eCJU5ZPXQ=
